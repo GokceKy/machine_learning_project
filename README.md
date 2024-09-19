@@ -12,23 +12,25 @@ Veri setine [creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcard
    - **Gözetimli Öğrenme (Logistic Regression):** Hedef etiketlerinin bilindiği, denetimli bir öğrenme yöntemidir. Bu çalışmada dolandırıcılık olup olmadığını tahmin etmek için Logistic Regression modeli kullanılmıştır.
    - **Gözetimsiz Öğrenme (Isolation Forest):** Veri setinde herhangi bir etiket bilgisi olmadan sınıfları gruplamak için gözetimsiz öğrenme kullanılmıştır. 
 
-Logistic Regression Sonuçları
-Doğruluk : 0.9992
-Kesinlik : 0.88
-Duyarlılık : 0.64
-F1 skoru : 0.74
+### Logistic Regression
 
-Logistic Regression Karışıklık Matrisi:
+- **Doğruluk**: 0.9992
+- **Kesinlik**: 0.88
+- **Duyarlılık**: 0.64
+- **F1 Skoru**: 0.74
+
+**Karışıklık Matrisi**:
 [[56855     9]
  [   35    63]]
 
-Isolation Forest Sonuçları
-Doğruluk : 	0.999
-Kesinlik : 0.29
-Duyarlılık : 0.33
-F1 skoru : 0.31
+### Isolation Forest
 
-Isolation Forest Karışıklık Matrisi:
+- **Doğruluk**: 0.999
+- **Kesinlik**: 0.29
+- **Duyarlılık**: 0.33
+- **F1 Skoru**: 0.31
+
+**Karışıklık Matrisi**:
 [[283945    370]
  [   372    120]]
 
