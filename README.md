@@ -5,6 +5,7 @@ Bu proje, kredi kartı dolandırıcılığını tespit etmek amacıyla gözetiml
 
 ## Proje İçeriği
 Veri setine [creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[Kaggle Notebook'u](https://www.kaggle.com/code/gokcekelesyilmaz/aygazml-gk)
 
 1. **Veri Seti:** Bu çalışmada kullanılan veri seti, kredi kartı dolandırıcılığı tespitine yönelik bir veri setidir. Veri seti dengesizdir, yani dolandırıcılık işlemlerinin sayısı normal işlemlere kıyasla oldukça düşüktür. Bu durum, özellikle gözetimli öğrenme algoritmalarında dikkat edilmesi gereken bir husustur.
 
